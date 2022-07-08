@@ -1,0 +1,31 @@
+﻿  GameTechRenderer.cpp
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Main.cpp
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\Main.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\Main.cpp(160,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StateGameObject.cpp
+  TutorialGame.cpp
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(44,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\CollisionDetection.h(45,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(128,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(132,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(136,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(140,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(145,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(151,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(157,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(163,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(508,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(515,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(525,43): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(526,44): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(530,44): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(556,47): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(1083,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(1071): warning C4715: 'NCL::CSC8503::TutorialGame::playerPos': not all control paths return a value
+C:\Users\Callum\Downloads\final4\CSC8503\GameTech\TutorialGame.cpp(1079): warning C4715: 'NCL::CSC8503::TutorialGame::enemyPos': not all control paths return a value
+  GameTech.vcxproj -> C:\Users\Callum\Downloads\final4\Win32\Debug\GameTech.exe

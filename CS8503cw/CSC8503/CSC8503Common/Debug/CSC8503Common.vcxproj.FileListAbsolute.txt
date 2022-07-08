@@ -1,0 +1,8 @@
+C:\Users\Callum\Downloads\cw2\AdvancedTechnologies\8503 Release  2021\Win32\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\cw2\AdvancedTechnologies\8503 Release  2021\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\CSC8503\Win32\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\CSC8503\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\cwBP\Win32\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\cwBP\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\final4\Win32\Debug\CSC8503Common.pdb
+C:\Users\Callum\Downloads\final4\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb

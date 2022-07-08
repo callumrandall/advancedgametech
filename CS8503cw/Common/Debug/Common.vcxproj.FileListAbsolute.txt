@@ -1,0 +1,12 @@
+C:\Uni\Games Engineering Code\game-engineering-codebase\Win32\Debug\Common.pdb
+C:\Uni\Games Engineering Code\game-engineering-codebase\Common\Debug\Common.pdb
+C:\Uni\Games Engineering Code\8503 Release\Win32\Debug\Common.pdb
+C:\Uni\Games Engineering Code\8503 Release\Common\Debug\Common.pdb
+C:\Users\Callum\Downloads\cw2\AdvancedTechnologies\8503 Release  2021\Win32\Debug\Common.pdb
+C:\Users\Callum\Downloads\cw2\AdvancedTechnologies\8503 Release  2021\Common\Debug\Common.pdb
+C:\Users\Callum\Downloads\CSC8503\Win32\Debug\Common.pdb
+C:\Users\Callum\Downloads\CSC8503\Common\Debug\Common.pdb
+C:\Users\Callum\Downloads\cwBP\Win32\Debug\Common.pdb
+C:\Users\Callum\Downloads\cwBP\Common\Debug\Common.pdb
+C:\Users\Callum\Downloads\final4\Win32\Debug\Common.pdb
+C:\Users\Callum\Downloads\final4\Common\Debug\Common.pdb
